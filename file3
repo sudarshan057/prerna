@@ -1,0 +1,8 @@
+host2 | CHANGED => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    },
+    "changed": true,
+    "checksum": "0bd8efb12ac716fdddf6dd8feedb750a7fc8c370",
+    "dest": "/tmp/hosts",
+    "gid": 1000,
