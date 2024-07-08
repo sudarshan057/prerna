@@ -1,0 +1,9 @@
+"gid": 1000,
+    "group": "vagrant",
+    "md5sum": "f425732ff83fe576b00f37dd63d94544",
+    "mode": "0664",
+    "owner": "vagrant",
+    "size": 291,
+    "src": "/home/vagrant/.ansible/tmp/ansible-tmp-1645033325.338188-14454-35489936437202/source",
+    "state": "file",
+    "uid": 1000
