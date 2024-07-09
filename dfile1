@@ -1,0 +1,2 @@
+Cloud management
+oci_vcn creates, deletes, or updates virtual cloud networks in Oracle Cloud Infrastructure environments. Similarly, vmware_cluster adds, removes, or updates VMware vSphere clusters.
